@@ -3,3 +3,5 @@ This is an intense singleplayer game against an AI where you have to get to the 
 
 # This is how game looks
 ![racing](https://user-images.githubusercontent.com/79054391/146776106-f8587631-256c-4637-b314-da6254236b22.png)
+
+Inspiration from: TechwithTim
